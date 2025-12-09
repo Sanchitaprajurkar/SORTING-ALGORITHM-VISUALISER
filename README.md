@@ -57,16 +57,18 @@ SORTING-ALGORITHM-VISUALISER/
 
 Each algorithm displays comparisons, swaps, partitioning (for Quick Sort), merging steps (for Merge Sort), and a final sorted view.
 
-## Future Enhancements
+## Screenshots
 
-* Add Heap Sort and Insertion Sort
-* Add dark/light themes
-* Add pause and resume functionality
-* Add option to export frames as images or GIF
+### Application Interface
+![Sorting Visualizer](assets/ss1.png)
+![Sorting Visualizer](assets/ss2.png)
+![Sorting Process](assets/ss3.png)
+![Sorting Process](assets/ss4.png)
+
 
 ## Author
 
 **Sanchita Rajurkar**
-GitHub: https://github.com/Sanchitaprajurkar
-LinkedIn: linkedin.com/in/sanchita-rajurkar-840180297
+* GitHub: https://github.com/Sanchitaprajurkar
+* LinkedIn: https://www.linkedin.com/in/sanchita-rajurkar-840180297/
 
