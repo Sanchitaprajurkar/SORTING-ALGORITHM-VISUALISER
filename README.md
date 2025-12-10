@@ -61,7 +61,7 @@ Each algorithm displays comparisons, swaps, partitioning (for Quick Sort), mergi
 
 ### Application Interface
 ![Sorting Visualizer](assets/ss1.png)
-![Sorting Visualizer](assets/ss2.png)
+![Sorting Visualizer](assets/ss.png)
 ![Sorting Process](assets/ss3.png)
 ![Sorting Process](assets/ss4.png)
 
